@@ -1,0 +1,19 @@
+.pagina-soma{
+    text-align: center;
+    margin: 30px;
+
+    div{
+        margin: 30px;
+    }
+
+    .m{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .m button{
+        width: 50px;
+        margin-bottom: 15px;
+       
+    }
+}

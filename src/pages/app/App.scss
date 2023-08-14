@@ -1,0 +1,23 @@
+.pagina-app{
+  margin: 30px;
+  .App {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  
+    .sx {
+      color: aqua;
+      margin-bottom: 30px;
+    }
+
+    .m{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      margin: 30px;
+    }
+  }
+
+}
+
